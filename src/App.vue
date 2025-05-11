@@ -262,7 +262,7 @@ const celebrate = () => {
       </button>
     </div>
     <button popover id="prices" popovertarget="prices"
-      class=" bg-white shadow-md size-auto p-8 starting:open:translate-y-full open:translate-y-0 translate-y-full transition transition-discrete duration-1000">
+      class=" bg-white shadow-md size-auto p-8 open:translate-y-0 translate-y-full transition transition-discrete duration-1000">
       <div class="flex flex-col-reverse gap-1 h-full">
         <div v-for="(question, i) in questions" :class="{ 'bg-yellow-400': i == index }"
           class=" bg-gray-100 px-4 grid grid-cols-3 grow content-center rounded-md">
@@ -278,3 +278,11 @@ const celebrate = () => {
     </button>
   </div>
 </template>
+
+<style scoped>
+@starting-style {
+  [popover] {
+    transform: translateY(100%);
+  }
+}
+</style>
