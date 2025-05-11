@@ -213,7 +213,7 @@ const celebrate = () => {
 </script>
 
 <template>
-  <div class="  text-gray-600 h-screen grid grid-rows-1 relative overflow-y-hidden">
+  <div class="  text-gray-600 h-dvh grid grid-rows-1 relative overflow-y-hidden">
     <div v-if="status" class=" p-8 grid place-items-center">
       <header class=" text-center">
         <h2 class=" text-4xl font-bold">{{ status == "win" ? "Congratulations!" : "Game Over" }}</h2>
