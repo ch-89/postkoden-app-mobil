@@ -237,7 +237,7 @@ const celebrate = () => {
       </div>
       <div class=" text-center grid gap-4">
         <h3 class=" text-gray-400 capitalize">{{ question.subject }}</h3>
-        <p class=" text-xl font-semibold">{{ question.text }}</p>
+        <p class=" text-xl font-semibold text-balance">{{ question.text }}</p>
         <div v-if="hint" class=" bg-green-100 text-green-600 p-4 rounded-lg">
           <span class=" font-semibold">Ledtråd:</span>
           {{ question.hint }}
@@ -262,15 +262,17 @@ const celebrate = () => {
       </button>
     </div>
     <button popover id="prices" popovertarget="prices"
-      class=" bg-white shadow-md size-auto p-8 open:flex flex-col-reverse gap-1 starting:open:translate-y-full open:translate-y-0 translate-y-full transition transition-discrete duration-1000">
-      <div v-for="(question, i) in questions" :class="{ 'bg-yellow-400': i == index }"
-        class=" bg-gray-100 px-4 grid grid-cols-3 grow content-center rounded-md">
-        <div class=" mr-auto" :class="i == index ? 'text-white' : 'text-gray-400'">{{ i + 1 }}</div>
-        <div :class="i == index ? 'text-white' : 'text-gray-600'" class=" text-center font-semibold">
-          {{ question.price }}
-        </div>
-        <div class=" ml-auto flex items-center gap-2" :class="i == index ? 'text-white' : 'text-rose-400'">
-          <i v-for="helper in question.helpers" :class="helper" class="fa-solid"></i>
+      class=" bg-white shadow-md size-auto p-8 starting:open:translate-y-full open:translate-y-0 translate-y-full transition transition-discrete duration-1000">
+      <div class="flex flex-col-reverse gap-1 h-full">
+        <div v-for="(question, i) in questions" :class="{ 'bg-yellow-400': i == index }"
+          class=" bg-gray-100 px-4 grid grid-cols-3 grow content-center rounded-md">
+          <div class=" mr-auto" :class="i == index ? 'text-white' : 'text-gray-400'">{{ i + 1 }}</div>
+          <div :class="i == index ? 'text-white' : 'text-gray-600'" class=" text-center font-semibold">
+            {{ question.price }}
+          </div>
+          <div class=" ml-auto flex items-center gap-2" :class="i == index ? 'text-white' : 'text-rose-400'">
+            <i v-for="helper in question.helpers" :class="helper" class="fa-solid"></i>
+          </div>
         </div>
       </div>
     </button>
