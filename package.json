@@ -1,0 +1,23 @@
+{
+  "name": "postkoden-app4",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.6",
+    "openai": "^4.98.0",
+    "tailwindcss": "^4.1.6",
+    "vue": "^3.5.13",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.4",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}

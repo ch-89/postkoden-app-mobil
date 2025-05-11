@@ -1,0 +1,2070 @@
+[
+  {
+    "text": "Vad kallas processen där växter omvandlar ljusenergi till kemisk energi?",
+    "options": ["Cellandning", "Fotosyntes", "Fermentation", "Respiration"],
+    "answer": "Fotosyntes",
+    "hint": "En synonym till 'bild' finns i namnet på processen.",
+    "subject": "Biologi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad heter det gröna färgämnet i växter?",
+    "options": ["Klorofyll", "Cellulosa", "Glukos", "Stärkelse"],
+    "answer": "Klorofyll",
+    "hint": "I namnet finns ett ord som katter använder för att klättra.",
+    "subject": "Biologi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket ämne i blodet transporterar syre?",
+    "options": ["Insulin", "Plasma", "Hemoglobin", "Leukocyter"],
+    "answer": "Hemoglobin",
+    "hint": "Det ger blodet dess röda färg.",
+    "subject": "Biologi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad kallas den del av hjärnan som styr balans och rörelse?",
+    "options": ["Lillhjärnan", "Storhjärnan", "Hjärnstammen", "Pannloben"],
+    "answer": "Lillhjärnan",
+    "hint": "Sitter längst bak i hjärnan.",
+    "subject": "Biologi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad är DNA?",
+    "options": [
+      "En typ av protein som bygger upp celler",
+      "En molekyl som bär på den genetiska informationen",
+      "En typ av bakterie som finns i alla levande organismer",
+      "En vätska som finns i cellkärnan"
+    ],
+    "answer": "En molekyl som bär på den genetiska informationen",
+    "hint": "Det är som en biologisk manual som berättar hur alla levande saker ska byggas.",
+    "subject": "Biologi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken organell är ansvarig för att producera energi i en cell?",
+    "options": ["Kärnan", "Mitokondrien", "Ribosomen", "Lysosomen"],
+    "answer": "Mitokondrien",
+    "hint": "Det är den del av cellen som fungerar som ett batteri.",
+    "subject": "Biologi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad är det vetenskapliga namnet för människans art?",
+    "options": [
+      "Homo erectus",
+      "Homo sapiens",
+      "Australopithecus",
+      "Homo habilis"
+    ],
+    "answer": "Homo sapiens",
+    "hint": "*o** ****e**",
+    "subject": "Biologi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken del av ögat reglerar hur mycket ljus som släpps in?",
+    "options": ["Lins", "Näthinna", "Regnbågshinna", "Hornhinna"],
+    "answer": "Regnbågshinna",
+    "hint": "Pride",
+    "subject": "Biologi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Hur många kromosomer har en människa normalt?",
+    "options": ["23", "46", "52", "48"],
+    "answer": "46",
+    "hint": "Människan har 23 PAR kromosomer.",
+    "subject": "Biologi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad kallas den kraft som håller oss kvar på jorden?",
+    "options": ["Friktion", "Magnetism", "Gravitation", "Rotation"],
+    "answer": "Gravitation",
+    "hint": "Den upptäcktes av Isaac Newton.",
+    "subject": "Fysik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad heter kraften som motverkar rörelse mellan två ytor?",
+    "options": ["Acceleration", "Friktion", "Gravitation", "Elasticitet"],
+    "answer": "Friktion",
+    "hint": "Kraften gör dig mer 'fri' på is.",
+    "subject": "Fysik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken färg får man om man blandar blått och gult?",
+    "options": ["Grön", "Orange", "Lila", "Rosa"],
+    "answer": "Grön",
+    "hint": "Tänk på naturens färger.",
+    "subject": "Fysik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är kondensation?",
+    "options": [
+      "När vatten blir till is",
+      "När vattenånga blir till vatten",
+      "När vatten kokar",
+      "När is smälter"
+    ],
+    "answer": "När vattenånga blir till vatten",
+    "hint": "Det händer till exempel när imma bildas på ett kallt fönster.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vid vilken temperatur kokar vatten?",
+    "options": ["50 °C", "75 °C", "100 °C", "150 °C"],
+    "answer": "100 °C",
+    "hint": "Vad betyder 'hekto'?",
+    "subject": "Fysik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken av följande är inte en enhet för temperatur?",
+    "options": ["Celsius", "Kelvin", "Fahrenheit", "Joule"],
+    "answer": "Joule",
+    "hint": "Det är en enhet för kraft, inte temperatur.",
+    "subject": "Det är enheten för energi.",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad mäts i enheten newton?",
+    "options": ["Energi", "Tryck", "Kraft", "Effekt"],
+    "answer": "Kraft",
+    "hint": "Symboler för respektive storhet: J, Pa, N, W",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad mäts i enheten pascal?",
+    "options": ["Kraft", "Tryck", "Spänning", "Energi"],
+    "answer": "Tryck",
+    "hint": "Detta kan också mätas med enheten 'bar'.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad mäts i enheten joule?",
+    "options": ["Kraft", "Tryck", "Energi", "Spänning"],
+    "answer": "Energi",
+    "hint": "Vi får det när vi äter mat.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är enheten för elektrisk ström?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "answer": "Ampere",
+    "hint": "Ett pojknamn gömmer sig i ordet.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är enheten för spänning?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "answer": "Volt",
+    "hint": "Man kan göra det på en studsmatta.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är enheten för resistans?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "answer": "Ohm",
+    "hint": "Säg omelett!",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad heter processen där en atomkärna klyvs och frigör energi?",
+    "options": ["Fission", "Fusion", "Kondensation", "Evaporation"],
+    "answer": "Fission",
+    "hint": "Denna process används i kärnkraftverk och kärnvapen.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem kom på relativitetsteorin (E = mc²)?",
+    "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Marie Curie"],
+    "answer": "Albert Einstein",
+    "hint": "Han var tysk.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken är en annan enhet för hästkraft?",
+    "options": ["Watt", "Newton", "Joule", "Pascal"],
+    "answer": "Watt",
+    "hint": "Det är enheten för effekt.",
+    "subject": "Fysik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad kallas en stjärna som exploderar i slutet av sitt liv?",
+    "options": ["Supernova", "Meteor", "Nebulosa", "Asteroid"],
+    "answer": "Supernova",
+    "hint": "Ett flicknamn ingår i namnet.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är en nebulosa inom astronomi?",
+    "options": [
+      "En typ av planet",
+      "Ett svart hål",
+      "Ett stort moln av gas och stoft i rymden",
+      "En komet med lång svans"
+    ],
+    "answer": "Ett stort moln av gas och stoft i rymden",
+    "hint": "Här kan nya stjärnor födas, eller det kan vara rester från döda stjärnor.",
+    "subject": "Fysik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken planet är känd för sina ringar?",
+    "options": ["Jupiter", "Saturnus", "Uranus", "Neptunus"],
+    "answer": "Saturnus",
+    "hint": "Det är den sjätte planeten från solen",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad kallas det när månen befinner sig mellan jorden och solen?",
+    "options": ["Månförmörkelse", "Solförmörkelse", "Halvskugga", "Nymåne"],
+    "answer": "Solförmörkelse",
+    "hint": "Det kan ses på dagen.",
+    "subject": "Fysik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken av följande färger finns inte i en regnbåge?",
+    "options": ["Röd", "Violett", "Gul", "Rosa"],
+    "answer": "Rosa",
+    "hint": "Regnbågens färger på engelska är: Red, Orange, Yellow, Green, Blue, Indigo, Violet",
+    "subject": "Fysik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad mäter man med en geiger-mätare?",
+    "options": ["Tryck", "Strålning", "Temperatur", "Syre"],
+    "answer": "Strålning",
+    "hint": "Den knäpper vid radioaktivitet.",
+    "subject": "Fysik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken skala används för att mäta magnituden av jordbävningar?",
+    "options": [
+      "Fujitaskalan",
+      "Celsius-skalan",
+      "Richterskalan",
+      "Beaufortskalan"
+    ],
+    "answer": "Richterskalan",
+    "hint": "Fujitaskalan är en skala för att bestämma intensiteten i en tornado.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad kallas processen där vatten avdunstar från växternas blad?",
+    "options": ["Kondensation", "Transpiration", "Fotosyntes", "Respiration"],
+    "answer": "Transpiration",
+    "hint": "Vatten transporteras bort från bladen.",
+    "subject": "Fysik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad kallas det när två lika magnetiska poler möts?",
+    "options": [
+      "Attraktion",
+      "Repulsion",
+      "Magnetisk induktion",
+      "Elektrisk fältlinje"
+    ],
+    "answer": "Repulsion",
+    "hint": "Två lika magnetiska poler stöter bort varandra.",
+    "subject": "Fysik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket instrument använder man för att mäta lufttryck?",
+    "options": ["Barometer", "Termometer", "Hygrometer", "Anemometer"],
+    "answer": "Barometer",
+    "hint": "En enhet för tryck är bar.",
+    "subject": "Fysik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken är Sveriges största sjö?",
+    "options": ["Vättern", "Vänern", "Mälaren", "Hjälmaren"],
+    "answer": "Vänern",
+    "hint": "Några städer som ligger intill sjön är Karlstad, Mariestad, Lidköping och Vänersborg",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket stjärntecken heter Aquarius på latin?",
+    "options": ["Vattumannen", "Oxen", "Kräftan", "Fiskarna"],
+    "answer": "Vattumannen",
+    "hint": "Detta tecken associeras med innovation, humanism och framtänkande.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket stjärntecken heter Virgo på latin?",
+    "options": ["Jungfrun", "Vågen", "Skorpionen", "Kräftan"],
+    "answer": "Jungfrun",
+    "hint": "Detta tecken associeras med ordning, analys och detaljfokus.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket stjärntecken heter Gemini på latin?",
+    "options": ["Tvillingarna", "Jungfrun", "Väduren", "Fiskarna"],
+    "answer": "Tvillingarna",
+    "hint": "Detta tecken symboliserar två syskon och står för kommunikation och mångsidighet.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket stjärntecken heter Taurus på latin?",
+    "options": ["Oxen", "Väduren", "Lejonet", "Tvillingarna"],
+    "answer": "Oxen",
+    "hint": "Detta tecken är känt för att vara stabilt, pålitligt och älskar komfort och lyx.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket stjärntecken heter Sagittarius på latin?",
+    "options": ["Skytten", "Stenbocken", "Lejonet", "Väduren"],
+    "answer": "Skytten",
+    "hint": "Detta tecken symboliserar äventyr, frihet och jakt efter sanning.",
+    "subject": "Geografi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilket stjärntecken heter Libra på latin?",
+    "options": ["Vågen", "Väduren", "Lejonet", "Stenbocken"],
+    "answer": "Vågen",
+    "hint": "Detta tecken associeras med balans, harmoni och rättvisa.",
+    "subject": "Geografi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilket land har flest invånare i världen?",
+    "options": ["USA", "Indien", "Kina", "Indonesien"],
+    "answer": "Indien",
+    "hint": "Det passerade Kina 2023.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket land är störst till ytan?",
+    "options": ["Kanada", "Kina", "Ryssland", "USA"],
+    "answer": "Ryssland",
+    "hint": "Det sträcker sig över både Europa och Asien.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Från vilket land kommer maträtten sushi ursprungligen?",
+    "options": ["Kina", "Thailand", "Japan", "Sydkorea"],
+    "answer": "Japan",
+    "hint": "Landet är känt för samurajer, manga och Mount Fuji.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad heter den största planeten i vårt solsystem?",
+    "options": ["Mars", "Jorden", "Saturnus", "Jupiter"],
+    "answer": "Jupiter",
+    "hint": "Den har många månar och en röd fläck.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken är världens största öken?",
+    "options": ["Sahara", "Arktiska öknen", "Karakum", "Gobi"],
+    "answer": "Sahara",
+    "hint": "Denna öken är belägen i Nordafrika och täcker ett område på över 9 miljoner kvadratkilometer.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "I vilket land ligger Mount Everest?",
+    "options": ["Indien", "Nepal", "Tibet", "Bhutan"],
+    "answer": "Nepal",
+    "hint": "Berget ligger vid gränsen till Kina.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad heter världens näst högsta berg?",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Makalu"],
+    "answer": "K2",
+    "hint": "Detta berg ligger på gränsen mellan Pakistan och Kina och är känt för att vara ett av de svåraste att bestiga.",
+    "subject": "Geografi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilket hav ligger mellan Nordamerika och Europa?",
+    "options": [
+      "Atlanten",
+      "Indiska oceanen",
+      "Stilla havet",
+      "Arktiska havet"
+    ],
+    "answer": "Atlanten",
+    "hint": "Det är det näst största havet på jorden.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken är världens längsta flod?",
+    "options": ["Amazonas", "Volga", "Nilen", "Mississippi"],
+    "answer": "Nilen",
+    "hint": "Den rinner genom Egypten och är ofta i debatt med Amazonas om längden.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket språk har flest modersmålstalare i världen?",
+    "options": ["Engelska", "Spanska", "Kinesiska (mandarin)", "Arabiska"],
+    "answer": "Kinesiska (mandarin)",
+    "hint": "Språket är dominant i världens fjärde största land till ytan.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken kontinent har flest länder?",
+    "options": ["Asien", "Afrika", "Europa", "Sydamerika"],
+    "answer": "Afrika",
+    "hint": "Egypten och Marocko ligger där.",
+    "subject": "Geografi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken av följande är inte en galax?",
+    "options": ["Vintergatan", "Andromeda", "Triangulum", "Orion"],
+    "answer": "Orion",
+    "hint": "Det här är en stjärnbild, inte en galax.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket berg är högst i Europa?",
+    "options": ["Alperna", "Mont Blanc", "Elbrus", "Matterhorn"],
+    "answer": "Elbrus",
+    "hint": "Berget ligger i Kaukasus.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken planet ligger närmast solen?",
+    "options": ["Venus", "Jorden", "Merkurius", "Mars"],
+    "answer": "Merkurius",
+    "hint": "Den börjar på M.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "I vilken världsdel ligger bergskedjan Anderna?",
+    "options": ["Asien", "Sydamerika", "Afrika", "Nordamerika"],
+    "answer": "Sydamerika",
+    "hint": "Bergskedjan går genom länder som Peru och Chile.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hur många kontinenter finns det?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "hint": "Antarktis och Oceanien är två av dem.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "I vilken stad ligger Colosseum (ett av de sju underverken)?",
+    "options": ["Aten", "Rom", "Paris", "Istanbul"],
+    "answer": "Rom",
+    "hint": "Det är Italiens huvudstad och hem till Vatikanstaten.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "I vilket land ligger Taj Mahal (ett av de sju underverken)?",
+    "options": ["Indien", "Pakistan", "Bangladesh", "Nepal"],
+    "answer": "Indien",
+    "hint": "Huvudstaden heter New Delhi.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "I vilket land ligger Chichén Itzá (ett av världens sju underverk)?",
+    "options": ["Brasilien", "Peru", "Mexiko", "Colombia"],
+    "answer": "Mexiko",
+    "hint": "Landet ligger i Nordamerika.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Var finns statyn Cristo Redentor (Kristusstatyn som är ett av världens sju underverk)?",
+    "options": ["Mexiko", "Argentina", "Brasilien", "Chile"],
+    "answer": "Brasilien",
+    "hint": "Statyn står på berget Corcovado i staden Rio de Janeiro.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad heter huvudstaden i Tjeckien?",
+    "options": ["Prag", "Bratislava", "Budapest", "Warszawa"],
+    "answer": "Prag",
+    "hint": "Bratislava är huvudstaden i Slovakien.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad heter huvudstaden i Argentina?",
+    "options": ["Buenos Aires", "Santiago", "Lima", "Montevideo"],
+    "answer": "Buenos Aires",
+    "hint": "Santiago är huvudstaden i Chile.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad heter huvudstaden i Portugal?",
+    "options": ["Madrid", "Aten", "Lissabon", "Ankara"],
+    "answer": "Lissabon",
+    "hint": "Ankara är huvudstaden i Turkiet.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad heter huvudstaden i Filippinerna?",
+    "options": ["Bangkok", "Jakarta", "Manila", "Kuala Lumpur"],
+    "answer": "Manila",
+    "hint": "Kuala Lumpur är huvudstaden i Malaysia.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad heter huvudstaden i Sydkorea?",
+    "options": ["Seoul", "Taipei", "Pyongyang", "Hanoi"],
+    "answer": "Seoul",
+    "hint": "Hanoi är huvudstaden i Vietnam.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad heter huvudstaden i Egypten?",
+    "options": ["Kairo", "Rabat", "Alger", "Tripoli"],
+    "answer": "Kairo",
+    "hint": "Rabat är huvudstaden i Marocko.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad heter huvudstaden i Pakistan?",
+    "options": ["Teheran", "Bagdad", "Islamabad", "Damaskus"],
+    "answer": "Islamabad",
+    "hint": "Teheran är huvudstaden i Iran.",
+    "subject": "Geografi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad heter huvudstaden i Etiopien?",
+    "options": ["Addis Abeba", "Kinshasa", "N'Djamena", "Asmara"],
+    "answer": "Addis Abeba",
+    "hint": "Asmara är huvudstaden i Eritrea.",
+    "subject": "Geografi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad heter huvudstaden i Kenya?",
+    "options": ["Nairobi", "Abuja", "Kampala", "Mogadishu"],
+    "answer": "Nairobi",
+    "hint": "Kampala är huvudstaden i Uganda.",
+    "subject": "Geografi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "På vilken kontinent ligger Kroatien?",
+    "options": ["Europa", "Asien", "Afrika", "Sydamerika"],
+    "answer": "Europa",
+    "hint": "Samma som Grekland.",
+    "subject": "Geografi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "På vilken kontinent ligger Singapore?",
+    "options": ["Asien", "Sydamerika", "Afrika", "Oceanien"],
+    "answer": "Asien",
+    "hint": "Samma som Thailand.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "På vilken kontinent ligger Peru?",
+    "options": ["Sydamerika", "Afrika", "Nordamerika", "Asien"],
+    "answer": "Sydamerika",
+    "hint": "Samma som Brasilien.",
+    "subject": "Geografi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "På vilken kontinent ligger Senegal?",
+    "options": ["Afrika", "Asien", "Europa", "Nordamerika"],
+    "answer": "Afrika",
+    "hint": "Samma som Nigeria.",
+    "subject": "Geografi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "När började andra världskriget?",
+    "options": ["1914", "1939", "1945", "1929"],
+    "answer": "1939",
+    "hint": "Andra världskriget slutade 1945.",
+    "subject": "Historia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vem var Gustav Vasa?",
+    "options": [
+      "En vikingahövding",
+      "En svensk konstnär",
+      "En kung som grundade det moderna Sverige",
+      "En militär från 1800-talet"
+    ],
+    "answer": "En kung som grundade det moderna Sverige",
+    "hint": "Han valdes till kung 1523 efter att ha lett upproret mot Danmark.",
+    "subject": "Historia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad hände på Franska revolutionen?",
+    "options": [
+      "Frankrike blev en diktatur",
+      "Napoleon föddes",
+      "Kungen störtades och folket krävde jämlikhet",
+      "Frankrike invaderades av England"
+    ],
+    "answer": "Kungen störtades och folket krävde jämlikhet",
+    "hint": "Ett uppror skedde.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket land var först med att skicka en människa till månen?",
+    "options": ["Sovjetunionen", "USA", "Kina", "Tyskland"],
+    "answer": "USA",
+    "hint": "Neil Armstrong tog det första steget 1969.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad var digerdöden?",
+    "options": [
+      "En medeltida sjukdom som dödade miljontals",
+      "En pestepidemi i Europa på 1300-talet",
+      "Ett krig i Frankrike",
+      "En jordbävning"
+    ],
+    "answer": "En pestepidemi i Europa på 1300-talet",
+    "hint": "Den spreds via loppor från råttor och dödade en tredjedel av Europas befolkning.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad var kalla kriget?",
+    "options": [
+      "Ett krig i norra Europa",
+      "Ett inbördeskrig i USA",
+      "En konflikt mellan USA och Sovjet utan direkt krig",
+      "Ett krig om olja i Mellanöstern"
+    ],
+    "answer": "En konflikt mellan USA och Sovjet utan direkt krig",
+    "hint": "Det handlade om maktbalans, kärnvapen och ideologiska motsättningar.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad innebar industriella revolutionen?",
+    "options": [
+      "Att jordbruket försvann",
+      "Att länder började kriga om olja",
+      "Att produktionen gick från hantverk till maskiner och fabriker",
+      "Att elektricitet uppfanns"
+    ],
+    "answer": "Att produktionen gick från hantverk till maskiner och fabriker",
+    "hint": "Produktionen ökade med dessa hjälpmedel.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem anses ha grundat Romarriket som ett imperium?",
+    "options": ["Julius Caesar", "Augustus", "Romulus", "Tiberius"],
+    "answer": "Augustus",
+    "hint": "Han blev den första kejsaren av Rom.",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vem styrde Rom under den sista perioden av den romerska republiken innan den övergick till imperium?",
+    "options": ["Julius Caesar", "Augustus", "Marcus Antonius", "Cincinnatus"],
+    "answer": "Julius Caesar",
+    "hint": "Han blev diktator på livstid och spelade en central roll i republikens övergång.",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad hände år 1523 i Sverige?",
+    "options": [
+      "Sverige gick med i EU",
+      "Digerdöden kom till Sverige",
+      "Gustav Vasa blev kung och Kalmarunionen upplöstes",
+      "Första svenska riksdagen bildades"
+    ],
+    "answer": "Gustav Vasa blev kung och Kalmarunionen upplöstes",
+    "hint": "Detta markerar början på det moderna Sverige.",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken civilisation byggde pyramiderna i Giza?",
+    "options": ["Romarna", "Aztekerna", "Egyptierna", "Grekerna"],
+    "answer": "Egyptierna",
+    "hint": "Deras ledare kallades för farao.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem var den första presidenten i USA?",
+    "options": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "answer": "George Washington",
+    "hint": "Han har en delstat uppkallad efter sig.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem målade Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Rembrandt"
+    ],
+    "answer": "Leonardo da Vinci",
+    "hint": "Han delar namn med DiCaprio.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken konstnär målade taket i Sixtinska kapellet?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Picasso", "Rembrandt"],
+    "answer": "Michelangelo",
+    "hint": "Turtles-karaktären med samma namn har en orange mask och använder nunchaku som vapen.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "När föll Berlinmuren?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "answer": "1989",
+    "hint": "Samma år som kallakriget började avta.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad hette den första satelliten som skickades upp i rymden?",
+    "options": ["Sputnik 1", "Explorer 1", "Hubble", "Apollo 11"],
+    "answer": "Sputnik 1",
+    "hint": "Apollo 11 var inte en satellit utan ett bemannat rymduppdrag",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem uppfann dynamiten?",
+    "options": ["Alfred Nobel", "Isaac Newton", "Marie Curie", "Thomas Edison"],
+    "answer": "Alfred Nobel",
+    "hint": "Han instiftade också Nobelpriserna.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem var dödsrikets gud i den grekiska mytologin?",
+    "options": ["Zeus", "Apollo", "Poseidon", "Hades"],
+    "answer": "Hades",
+    "hint": "Han var bror till Zeus och Poseidon.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem var krigsguden i grekisk mytologi?",
+    "options": ["Zeus", "Poseidon", "Ares", "Apollo"],
+    "answer": "Ares",
+    "hint": "Han var inte bror till Hades.",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vem var kärleksgudinnan i grekisk mytologi?",
+    "options": ["Aphrodite", "Athena", "Artemis", "Hera"],
+    "answer": "Aphrodite",
+    "hint": "Namnet börjar på A.",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad kallas tiden före skrivkonstens uppkomst?",
+    "options": ["Forntiden", "Antiken", "Medeltiden", "Järnåldern"],
+    "answer": "Forntiden",
+    "hint": "Forntiden → Järnåldern → Antiken → Medeltiden",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad heter Tors hammare i nordisk mytologi?",
+    "options": ["Mjölner", "Gungnir", "Skidbladnir", "Brisingamen"],
+    "answer": "Mjölner",
+    "hint": "Namnet innehåller ett ord som man använder när man bakar bröd.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket år sjönk Titanic?",
+    "options": ["1898", "1912", "1931", "1945"],
+    "answer": "1912",
+    "hint": "Innan första världskriget.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket århundrade inleddes den franska revolutionen?",
+    "options": ["1600-talet", "1700-talet", "1800-talet", "1500-talet"],
+    "answer": "1700-talet",
+    "hint": "Före 1800-talet.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem var den egyptiske farao som lät bygga pyramiden i Giza?",
+    "options": ["Tutankhamun", "Ramses II", "Cheops", "Nefertiti"],
+    "answer": "Cheops",
+    "hint": "Han levde innan Tutankhamun.",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad kallades den högsta ledaren i det forntida Egypten?",
+    "options": ["Kejsare", "Farao", "Khan", "Sultan"],
+    "answer": "Farao",
+    "hint": "Titeln bars av härskare som ansågs vara både kungar och gudar.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad kallades den högsta ledaren i det romerska imperiet?",
+    "options": ["Konsul", "Kejsare", "Diktator", "Censor"],
+    "answer": "Kejsare",
+    "hint": "Denna titel började användas efter att Rom övergick från republik till imperium.",
+    "subject": "Historia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket språk är basen till de romanska språken?",
+    "options": ["Grekiska", "Latin", "Keltiska", "Etruskiska"],
+    "answer": "Latin",
+    "hint": "'Carpe Diem' är på det här språket och betyder 'Fånga dagen'",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilket av följande är INTE ett av världens sju underverk?",
+    "options": [
+      "Kinesiska muren",
+      "Eiffeltornet",
+      "Machu Picchu",
+      "Chichén Itzá"
+    ],
+    "answer": "Eiffeltornet",
+    "hint": "3 av underverken ligger i Asien, 2 i Sydamerika, 1 i Nordamerika och 1 i Europa.",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "När började första världskriget?",
+    "options": ["1914", "1918", "1924", "1939"],
+    "answer": "1914",
+    "hint": "Andra världskriget började 1939.",
+    "subject": "Historia",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilket ämne har den kemiska beteckningen H₂O?",
+    "options": ["Syre", "Väte", "Koldioxid", "Vatten"],
+    "answer": "Vatten",
+    "hint": "Det är något du dricker.",
+    "subject": "Kemi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket ämne har den kemiska beteckningen O?",
+    "options": ["Väte", "Syre", "Kol", "Kväve"],
+    "answer": "Syre",
+    "hint": "Det är viktigt för vår andning.",
+    "subject": "Kemi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket ämne har den kemiska beteckningen Au?",
+    "options": ["Silver", "Aluminium", "Koppar", "Guld"],
+    "answer": "Guld",
+    "hint": "Det är ett dyrbart metalliskt grundämne.",
+    "subject": "Kemi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket ämne har den kemiska beteckningen Hg?",
+    "options": ["Väte", "Kvicksilver", "Helium", "Järn"],
+    "answer": "Kvicksilver",
+    "hint": "Det är flytande vid rumstemperatur.",
+    "subject": "Kemi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket av följande är en ädelgas?",
+    "options": ["Kväve", "Syre", "Argon", "Koldioxid"],
+    "answer": "Argon",
+    "hint": "Det används i glödlampor.",
+    "subject": "Kemi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad är en isotop?",
+    "options": [
+      "Atomer av samma grundämne med olika antal neutroner",
+      "Atomer av olika grundämnen",
+      "Atomer med samma antal elektroner men olika antal protoner",
+      "Atomer med olika kemiska egenskaper"
+    ],
+    "answer": "Atomer av samma grundämne med olika antal neutroner",
+    "hint": "Isotoper har samma antal protoner men kan ha olika massor.",
+    "subject": "Kemi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad mäter pH-värdet i en lösning?",
+    "options": [
+      "Hastigheten på en kemisk reaktion",
+      "Koncentrationen av vätejoner",
+      "Temperaturen",
+      "Viskositeten"
+    ],
+    "answer": "Koncentrationen av vätejoner",
+    "hint": "Ett lågt pH-värde betyder att lösningen är sur, medan ett högt pH-värde betyder att lösningen är basisk.",
+    "subject": "Kemi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad innebär ett pH-värde på 2?",
+    "options": ["Surt", "Neutralt", "Basisk", "Inget av ovanstående"],
+    "answer": "Surt",
+    "hint": "pH-skalan går från 0-14 där 7 är neutralt.",
+    "subject": "Kemi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad kallas en kemisk reaktion där ett ämne förlorar elektroner?",
+    "options": ["Oxidation", "Reduktion", "Neutralisation", "Förruttnelse"],
+    "answer": "Oxidation",
+    "hint": "En kemisk process som ofta sker när ett ämne reagerar med syre.",
+    "subject": "Kemi",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad är radioaktivitet?",
+    "options": [
+      "En process där instabila atomkärnor avger strålning tills de blir stabila.",
+      "En form av elektrisk ström som genereras av atomer i rörelse.",
+      "En typ av ljus som skapas av radiofrekventa vågor.",
+      "En kemisk reaktion mellan atomer som frigör energi i form av värme."
+    ],
+    "answer": "En process där instabila atomkärnor avger strålning tills de blir stabila.",
+    "hint": "Det handlar om atomkärnors omvandling och strålning.",
+    "subject": "Kemi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken av följande är inte en beståndsdel i en atom?",
+    "options": ["Elektron", "Proton", "Neutron", "Foton"],
+    "answer": "Foton",
+    "hint": "Tänk på en synonym till bild.",
+    "subject": "Kemi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken av följande partiklar i en atom har negativ laddning?",
+    "options": ["Elektron", "Proton", "Neutron", "Ingen av dessa"],
+    "answer": "Elektron",
+    "hint": "Protoner har positiv laddning.",
+    "subject": "Kemi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken gas bidrar mest till växthuseffekten?",
+    "options": ["Syre", "Kväve", "Koldioxid", "Väte"],
+    "answer": "Koldioxid",
+    "hint": "Den frigörs bland annat vid förbränning av fossila bränslen.",
+    "subject": "Kemi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är π (pi) ungefär lika med?",
+    "options": ["2,71", "3,14", "3,87", "4,00"],
+    "answer": "3,14",
+    "hint": "Det är ett irrationellt tal som börjar med 3.",
+    "subject": "Matematik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är 25% av 200?",
+    "options": ["25", "50", "75", "100"],
+    "answer": "50",
+    "hint": "25% av 100 är 25.",
+    "subject": "Matematik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad heter den längsta sidan i en rätvinklig triangel?",
+    "options": ["Katet", "Hypotenusa", "Diagonal", "Median"],
+    "answer": "Hypotenusa",
+    "hint": "De två sidorna som bildar den räta vinkeln kallas för kateter.",
+    "subject": "Matematik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är medelvärdet av talen 4, 8, 6 och 2?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5",
+    "hint": "Lägg ihop alla talen och dela med hur många de är.",
+    "subject": "Matematik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är medianen av talen 3, 7, 2, 9, 5?",
+    "options": ["3", "5", "7", "9"],
+    "answer": "5",
+    "hint": "Sortera talen i storleksordning först och ta det mittersta.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är vinkelsumman i en triangel?",
+    "options": ["90°", "180°", "270°", "360°"],
+    "answer": "180°",
+    "hint": "Motsvarar en halv rotation i grader.",
+    "subject": "Matematik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hur många radianer motsvarar 90°?",
+    "options": ["π/2", "π/4", "π", "2π"],
+    "answer": "π/2",
+    "hint": "360° = 2π",
+    "subject": "Matematik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Hur räknar man ut arean av en cirkel?",
+    "options": ["A = π · d", "A = π · r", "A = π · r²", "A = 2 · π · r"],
+    "answer": "A = π · r²",
+    "hint": "Man använder radien i formeln för att räkna ut arean, inte diametern.",
+    "subject": "Matematik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken formel är det här? a² + b² = c²",
+    "options": [
+      "Pythagoras sats",
+      "Newtons lag",
+      "Eulers formel",
+      "Fermats sista sats"
+    ],
+    "answer": "Pythagoras sats",
+    "hint": "Formeln beskriver förhållandet mellan sidorna i en rätvinklig triangel.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket matematiskt begrepp beskriver en funktions förändringshastighet vid en viss tidpunkt?",
+    "options": ["Integral", "Logaritm", "Derivata", "Tangent"],
+    "answer": "Derivata",
+    "hint": "En logaritm är den exponent som en bas måste upphöjas till för att ge ett visst tal.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är lösningen på ekvationen 2x + 4 = 10?",
+    "options": ["x = 2", "x = 3", "x = 4", "x = 5"],
+    "answer": "x = 3",
+    "hint": "För att lösa ekvationen, subtrahera 4 från båda sidor och dela med 2.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad kallas det som står ovanför bråkstrecket i ett bråk?",
+    "options": ["Täljare", "Nämnare", "Bråkdel", "Kvot"],
+    "answer": "Täljare",
+    "hint": "Den är i taket.",
+    "subject": "Matematik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken trigonometrisk funktion används för att beräkna förhållandet mellan den motsatta sidan och hypotenusan i en rätvinklig triangel?",
+    "options": ["Sinus", "Cosinus", "Tangens", "Sekans"],
+    "answer": "Sinus",
+    "hint": "Cosinus är förhållandet mellan närliggande katet och hypotenusan.",
+    "subject": "Matematik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad är en tum (inch) ungefär lika med i centimeter?",
+    "options": ["1,54 cm", "2,54 cm", "3,14 cm", "0,54 cm"],
+    "answer": "2,54 cm",
+    "hint": "> 2",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hur mycket är ett tjog?",
+    "options": ["10", "12", "20", "100"],
+    "answer": "20",
+    "hint": "Dussin = 12",
+    "subject": "Matematik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är ett primtal?",
+    "options": [
+      "Ett tal som bara kan delas med 1 och sig självt",
+      "Ett jämnt tal större än 2",
+      "Ett tal som är delbart med 10",
+      "Ett tal som bara finns i multiplikationstabellen för 7"
+    ],
+    "answer": "Ett tal som bara kan delas med 1 och sig självt",
+    "hint": "Det minsta primtalet är 2.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hur många sidor har en hexagon?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6",
+    "hint": "Prefixet 'hexa-' betyder sex.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är det 6:e talet i talföljden: 1, 4, 9, 16, 25, ...?",
+    "options": ["36", "40", "42", "49"],
+    "answer": "36",
+    "hint": "Talföljden består av kvadrater.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket prefix betyder en miljard (1 000 000 000)?",
+    "options": ["Mega", "Giga", "Kilo", "Tera"],
+    "answer": "Giga",
+    "hint": "kilo betyder 1000.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket prefix betyder en tusendel (0,001)?",
+    "options": ["Milli", "Centi", "Deci", "Micro"],
+    "answer": "Milli",
+    "hint": "Centi betyder hundradel.",
+    "subject": "Matematik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hur många centiliter går det på 1 liter?",
+    "options": ["0.1", "10", "100", "1000"],
+    "answer": "100",
+    "hint": "1 liter är lika med 10 deciliter.",
+    "subject": "Matematik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är det decimala värdet av det binära talet 1011?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11",
+    "hint": "För att omvandla ett binärt tal till decimal, multiplicera varje bit med 2 upphöjt till dess position från höger, med start från 0.",
+    "subject": "Matematik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad heter \"krusbär\" på engelska?",
+    "options": ["Gooseberry", "Raspberry", "Blackberry", "Strawberry"],
+    "answer": "Gooseberry",
+    "hint": "Det delar namn med en fågel.",
+    "difficulty": "easy",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"Nypon\" på engelska?",
+    "options": ["Redcurrant", "Rosehip", "Cloudberry", "Cranberry"],
+    "answer": "Rosehip",
+    "hint": "Direktöversatt blir det roshöft.",
+    "difficulty": "hard",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"Paprika\" på engelska?",
+    "options": ["Bell Pepper", "Cabbage", "Beetroot", "Leek"],
+    "answer": "Bell Pepper",
+    "hint": "Vad heter klocka på engelska?",
+    "difficulty": "medium",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"gädda\" på engelska?",
+    "options": ["Perch", "Pike", "Salmon", "Zander"],
+    "answer": "Pike",
+    "hint": "Börjar på P.",
+    "difficulty": "medium",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"gräsand\" på engelska?",
+    "options": ["Crane", "Goose", "Heron", "Mallard"],
+    "answer": "Mallard",
+    "hint": "Ordet för köpcenter på engelska finns i namnet?",
+    "difficulty": "hard",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"skata\" på engelska?",
+    "options": ["Magpie", "Crow", "Raven", "Jackdaw"],
+    "answer": "Magpie",
+    "hint": "Not apple pie but...",
+    "difficulty": "easy",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"iller\" på engelska?",
+    "options": ["Ferret", "Mole", "Badger", "Marten"],
+    "answer": "Ferret",
+    "hint": "Marten är mård.",
+    "difficulty": "hard",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"vantar\" på engelska?",
+    "options": ["Gloves", "Mittens", "Hand warmers", "Scarves"],
+    "answer": "Mittens",
+    "hint": "Gloves är handskar.",
+    "difficulty": "easy",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"papegoja\" på engelska?",
+    "options": ["Pheasant", "Parrot", "Peacock", "Swallow"],
+    "answer": "Parrot",
+    "hint": "Det börjar på P och slutar på t.",
+    "difficulty": "medium",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter \"skiftnyckel\" på engelska?",
+    "options": ["Wrench", "Pliers", "Screwdriver", "Drill"],
+    "answer": "Wrench",
+    "hint": "Pliers är tång.",
+    "difficulty": "medium",
+    "subject": "Engelska"
+  },
+  {
+    "text": "Vad heter islams heliga bok?",
+    "options": ["Bibeln", "Koranen", "Torah", "Vedaskrifterna"],
+    "answer": "Koranen",
+    "hint": "Den är skriven på arabiska.",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken religion firar ramadan?",
+    "options": ["Kristendom", "Judendom", "Islam", "Buddhism"],
+    "answer": "Islam",
+    "hint": "Deras heliga skrift är koranen.",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken religion firar chanukka?",
+    "options": ["Hinduism", "Judendom", "Islam", "Buddhism"],
+    "answer": "Judendom",
+    "hint": "Jesus tillhörde den här religionen innan han blev grundare av kristendomen.",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vem anses vara grundaren av kristendomen?",
+    "options": ["Muhammed", "Jesus", "Buddha", "Abraham"],
+    "answer": "Jesus",
+    "hint": "Han anses vara Guds son och dog på korset enligt kristen tro.",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken religion har sin heliga plats i staden Mecka?",
+    "options": ["Judendom", "Hinduism", "Islam", "Kristendom"],
+    "answer": "Islam",
+    "hint": "Muslimer ber vända mot denna stad.",
+    "subject": "Religion",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad kallas judarnas heliga byggnad?",
+    "options": ["Kyrka", "Synagoga", "Moské", "Tempel"],
+    "answer": "Synagoga",
+    "hint": "Här hålls sabbatsgudstjänster och undervisning om Tora.",
+    "subject": "Religion",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken högtid firar kristna för att minnas Jesus uppståndelse?",
+    "options": ["Jul", "Påsk", "Pingst", "Kristi himmelsfärd"],
+    "answer": "Påsk",
+    "hint": "Högtiden infaller efter fastan och långfredagen.",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken kristen högtid firas till minne av att den Helige Ande kom till lärjungarna och räknas som kyrkans födelsedag?",
+    "options": ["Advent", "Alla helgons dag", "Pingst", "Kristi himmelsfärd"],
+    "answer": "Pingst",
+    "hint": "Detta firande sker 50 dagar efter påsk.",
+    "subject": "Religion"
+  },
+  {
+    "text": "Hur många gudar finns det inom hinduismen (enligt tron)?",
+    "options": ["En", "Många (polyteism)", "Inga", "Bara tre"],
+    "answer": "Många (polyteism)",
+    "hint": "Exempel på gudar är Vishnu, Shiva och Brahma.",
+    "subject": "Religion",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är målet för en buddhist?",
+    "options": [
+      "Att komma till himlen",
+      "Att uppnå nirvana",
+      "Att återfödas som gud",
+      "Att leva ett långt liv"
+    ],
+    "answer": "Att uppnå nirvana",
+    "hint": "Det handlar om att bryta återfödelsens kretslopp, samsara.",
+    "subject": "Religion",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken symbol förknippas oftast med kristendomen?",
+    "options": ["Halvmåne", "Kors", "Davidsstjärna", "Lotusblomma"],
+    "answer": "Kors",
+    "hint": "Det symboliserar Jesus död och uppståndelse.",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad kallas den religiösa ledaren i islam?",
+    "options": ["Biskop", "Guru", "Imam", "Rabbin"],
+    "answer": "Imam",
+    "hint": "Namnet påminner om religionens namn.",
+    "subject": "Religion",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilka fem världsreligioner brukar man tala om i religionskunskap?",
+    "options": [
+      "Kristendom, islam, judendom, asatro, scientologi",
+      "Kristendom, islam, judendom, hinduism, buddhism",
+      "Kristendom, buddhism, new age, taoism, islam",
+      "Hinduism, buddhism, jainism, shinto, kristendom"
+    ],
+    "answer": "Kristendom, islam, judendom, hinduism, buddhism",
+    "hint": "Asatron är inte en av dem.",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad innebär karma?",
+    "options": [
+      "Att våra handlingar påverkar vårt öde, både nu och i framtiden",
+      "Att vi kan förändra vårt öde genom meditation",
+      "Att våra tankar har större betydelse än våra handlingar",
+      "Att vi kan förutse framtiden genom meditation"
+    ],
+    "answer": "Att våra handlingar påverkar vårt öde, både nu och i framtiden",
+    "hint": "Vårt agerande har konsekvenser.",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad innebär reinkarnation?",
+    "options": [
+      "Att själen återföds i en ny kropp efter döden",
+      "Att vi går igenom flera liv för att uppnå fullständig upplysning",
+      "Att vi lever flera liv samtidigt i olika dimensioner",
+      "Att själen inte finns kvar efter döden"
+    ],
+    "answer": "Att själen återföds i en ny kropp efter döden",
+    "hint": "Återuppståndelse",
+    "subject": "Religion",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken hinduisk gud har ett elefanthuvud?",
+    "options": ["Vishnu", "Shiva", "Ganesha", "Brahma"],
+    "answer": "Ganesha",
+    "hint": "Denna gud är känd som visdomens och hinderborttagandets gud.",
+    "subject": "Religion",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad heter judarnas heliga skrift?",
+    "options": ["Koranen", "Bibeln", "Tanakh", "Talmud"],
+    "answer": "Tanakh",
+    "hint": "Talmud är en vägledning i hur man förstår och tillämpar Tanakh i vardagen.",
+    "subject": "Religion",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken svensk högtid infaller först?",
+    "options": ["Påsk", "Pingst", "Kristi himmelfärd", "Jul"],
+    "answer": "Påsk",
+    "hint": "Denna högtid infaller i mars eller april",
+    "subject": "Svenska högtider",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad innebär en pandemi?",
+    "options": [
+      "En lokal sjukdom som drabbar ett samhälle",
+      "En sjukdom som påverkar ett helt land",
+      "En sjukdom som sprider sig över hela världen",
+      "En sjukdom som endast påverkar djur"
+    ],
+    "answer": "En sjukdom som sprider sig över hela världen",
+    "hint": "En epidemi är en sjukdom som sprids i ett begränsat område,",
+    "difficulty": "medium",
+    "subject": "Samhällskunskap"
+  },
+  {
+    "text": "Vad betyder demokrati?",
+    "options": ["Folkstyre", "Rättvisa", "Jämlikhet", "Statsskick"],
+    "answer": "Folkstyre",
+    "hint": "Tänk på vad det betyder att alla får vara med och bestämma.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilka är de tre statsmakterna i Sverige?",
+    "options": [
+      "Regeringen, domstolarna och polisen",
+      "Riksdagen, regeringen och domstolarna",
+      "Kungen, regeringen och försvaret",
+      "Kommunen, riksdagen och skatteverket"
+    ],
+    "answer": "Riksdagen, regeringen och domstolarna",
+    "hint": "Domstolarna är en.",
+    "subject": "Samhällskunskap",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Hur ofta är det val till riksdagen i Sverige?",
+    "options": ["Varje år", "Vartannat år", "Vart fjärde år", "Var sjätte år"],
+    "answer": "Vart fjärde år",
+    "hint": "Lika ofta som det är presidentval i USA.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är skillnaden mellan riksdag och regering?",
+    "options": [
+      "Riksdagen verkställer beslut, regeringen stiftar lagar",
+      "Regeringen stiftar lagar, riksdagen bestämmer budgeten",
+      "Riksdagen beslutar, regeringen genomför",
+      "De har samma uppgifter"
+    ],
+    "answer": "Riksdagen beslutar, regeringen genomför",
+    "hint": "Tänk på vem som beslutar om lagar och vem som ser till att de genomförs.",
+    "subject": "Samhällskunskap",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken är inte en av Sveriges grundlagar?",
+    "options": [
+      "Regeringsformen",
+      "Tryckfrihetsförordningen",
+      "Yttrandefrihetsgrundlagen",
+      "Brottsbalken"
+    ],
+    "answer": "Brottsbalken",
+    "hint": "Regeringsformen är en av dem.",
+    "subject": "Samhällskunskap",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad betyder ordet \"yttrandefrihet\"?",
+    "options": [
+      "Att alla måste säga samma sak",
+      "Att man får säga vad man vill utan att någon får bli arg",
+      "Att man får uttrycka sina åsikter offentligt",
+      "Att bara journalister får säga vad de tycker"
+    ],
+    "answer": "Att man får uttrycka sina åsikter offentligt",
+    "hint": "Tänk på vad det innebär att få säga sin mening i ett demokratiskt samhälle.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är syftet med skatt?",
+    "options": [
+      "Att finansiera offentliga tjänster",
+      "Att minska statens skuld",
+      "Att minska inflation",
+      "Att minska konsumtionen av allting"
+    ],
+    "answer": "Att finansiera offentliga tjänster",
+    "hint": "Skatt används till t.ex. skola, sjukvård och vägar.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är en ideologi?",
+    "options": [
+      "Ett partiprogram – t.ex. Lagen om vård",
+      "En religion – t.ex. kristendom",
+      "En politisk idé om hur samhället bör styras – t.ex. socialism",
+      "En vetenskaplig teori – t.ex. evolutionen"
+    ],
+    "answer": "En politisk idé om hur samhället bör styras – t.ex. socialism",
+    "hint": "Ideologier ligger ofta till grund för politiska partiers syn på samhället.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad innebär rättssäkerhet i ett land?",
+    "options": [
+      "Att lagen inte gäller alla",
+      "Att människor döms utan rättegång",
+      "Att domstolar styrs av regeringen",
+      "Att alla behandlas lika inför lagen och att lagen gäller för alla"
+    ],
+    "answer": "Att alla behandlas lika inför lagen och att lagen gäller för alla",
+    "hint": "Rättssäkerhet är en grund i demokratiska rättsstater.",
+    "subject": "Samhällskunskap",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket statsskick innebär att ett land har en kung eller drottning som statschef?",
+    "options": ["Republik", "Demokrati", "Monarki", "Federation"],
+    "answer": "Monarki",
+    "hint": "En republik är en stat där statschefen är vald, inte en monark.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hur många partier finns det i Sveriges riksdag?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8",
+    "hint": "Tre av dem är Liberalerna, Kristdemokraterna och Centerpartiet.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad heter Sveriges kung?",
+    "options": ["Carl XVI Gustaf", "Oscar II", "Gustav V", "Karl XII"],
+    "answer": "Carl XVI Gustaf",
+    "hint": "Han har varit kung sedan 1973.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är NATO?",
+    "options": [
+      "En internationell handelsorganisation",
+      "En militär allians",
+      "En global miljöorganisation",
+      "En sportlig organisation"
+    ],
+    "answer": "En militär allians",
+    "hint": "Denna organisation består av länder från Europa och Nordamerika som samarbetar för att säkerställa gemensamt försvar.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket år blev Sverige medlem i EU?",
+    "options": ["1989", "1995", "2000", "2004"],
+    "answer": "1995",
+    "hint": "Mitten av 90-talet.",
+    "subject": "Samhällskunskap",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilket år infördes allmän rösträtt i Sverige?",
+    "options": ["1905", "1919", "1945", "1921"],
+    "answer": "1921",
+    "hint": "Det var mellan världskrigen.",
+    "subject": "Samhällskunskap",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken valuta har Danmark?",
+    "options": ["Krone", "Pund", "Euro", "Forint"],
+    "answer": "Krone",
+    "hint": "Tänk på vilken valuta som används i Sverige.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilken valuta har Polen?",
+    "options": ["Zloty", "Euro", "Krona", "Franc"],
+    "answer": "Zloty",
+    "hint": "Polen har inte Euro.",
+    "subject": "Samhällskunskap",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken valuta har Japan?",
+    "options": ["Yen", "Won", "Yuan", "Rupier"],
+    "answer": "Yen",
+    "hint": "Yuan används i Kina.",
+    "subject": "Samhällskunskap",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken valuta har Brasilien?",
+    "options": ["Real", "Dollar", "Peso", "Lira"],
+    "answer": "Real",
+    "hint": "**** Madrid",
+    "subject": "Samhällskunskap",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken är Sveriges högsta beslutande myndighet?",
+    "options": [
+      "Regeringen",
+      "Riksdagen",
+      "Högsta domstolen",
+      "Kommunfullmäktige"
+    ],
+    "answer": "Riksdagen",
+    "hint": "Regeringen genomför besluten.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hur många riksdagsledamöter finns det i Sveriges riksdag?",
+    "options": ["150", "300", "349", "400"],
+    "answer": "349",
+    "hint": "Fler än 300.",
+    "subject": "Samhällskunskap",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad är FN:s huvudsakliga uppgift?",
+    "options": [
+      "Att försvara medlemsländer militärt vid angrepp",
+      "Att bevara fred och säkerhet i världen",
+      "Att styra över länders lagar och politik",
+      "Att skapa handelsavtal mellan länder"
+    ],
+    "answer": "Att bevara fred och säkerhet i världen",
+    "hint": "FN arbetar för att förhindra framtida krig.",
+    "subject": "Samhällskunskap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hur många spelare har ett fotbollslag på planen samtidigt (inklusive målvakt)?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11",
+    "hint": "Det är tio utespelare.",
+    "subject": "Sport",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken av följande bokstäver är en vokal?",
+    "options": ["B", "E", "K", "T"],
+    "answer": "E",
+    "hint": "B och T är konsonanter.",
+    "subject": "Svenska",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad kallas det när två ord betyder samma sak?",
+    "options": ["Synonym", "Antonym", "Homonym", "Metafor"],
+    "answer": "Synonym",
+    "hint": "En antonym är ett ord som betyder motsatsen till ett annat ord.",
+    "subject": "Svenska",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad är en akronym?",
+    "options": [
+      "Ett ord med flera betydelser",
+      "En metafor",
+      "En synonym",
+      "Ett ord bildat av initialer"
+    ],
+    "answer": "Ett ord bildat av initialer",
+    "hint": "Exempel: 'USA' (United States of America).",
+    "subject": "Svenska",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad är ett prefix?",
+    "options": [
+      "En typ av adjektiv",
+      "Ett ord som står före roten",
+      "En verbändelse",
+      "En satsdel"
+    ],
+    "answer": "Ett ord som står före roten",
+    "hint": "Exempel: 'o-' i 'olycklig'.",
+    "subject": "Svenska",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket av följande ord är i superlativ form?",
+    "options": ["Större", "Störst", "Stor", "Stora"],
+    "answer": "Störst",
+    "hint": "Superlativ är en grammatisk form som uttrycker att något har den högsta graden av en egenskap.",
+    "subject": "Svenska",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilket av följande ord är ett substantiv?",
+    "options": ["Springa", "Lång", "Bok", "Han"],
+    "answer": "Bok",
+    "hint": "Ett substantiv är ett namn på en sak, person, plats eller idé.",
+    "subject": "Svenska",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket av följande ord är ett adjektiv?",
+    "options": ["Hoppa", "Stor", "Boll", "Snabbt"],
+    "answer": "Stor",
+    "hint": "Ett adjektiv beskriver hur något är, till exempel färg eller egenskap.",
+    "subject": "Svenska",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket av följande ord är ett verb?",
+    "options": ["Glad", "Hus", "Skriva", "Vacker"],
+    "answer": "Skriva",
+    "hint": "Ett verb är något man kan göra, till exempel en handling eller aktivitet.",
+    "subject": "Svenska",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket av följande verb står i imperfekt (preteritum)?",
+    "options": ["Springer", "Sprang", "Springa", "Sprungit"],
+    "answer": "Sprang",
+    "hint": "Imperfekt beskriver något som hände i dåtid.",
+    "subject": "Svenska",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket ord i meningen \"Han sprang snabbt till bussen.\" är ett adverb?",
+    "options": ["Han", "Sprang", "Snabbt", "Bussen"],
+    "answer": "Snabbt",
+    "hint": "Ett adverb beskriver hur, när eller var något händer – ofta hur en handling utförs.",
+    "subject": "Svenska",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket ord är ett pronomen?",
+    "options": ["Han", "Gick", "Affären", "Mjölk"],
+    "answer": "Han",
+    "hint": "Pronomen ersätter substantiv och används för att referera till personer eller saker.",
+    "subject": "Svenska",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad står förkortningen WWW för?",
+    "options": [
+      "World Wide Web",
+      "Wireless Web Work",
+      "Wide World Web",
+      "Web World Wide"
+    ],
+    "answer": "World Wide Web",
+    "hint": "Det är en del av internet som används för att visa hemsidor.",
+    "subject": "Teknik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad står förkortningen GPS för?",
+    "options": [
+      "Global Positioning System",
+      "Geographic Placement System",
+      "Global Processing System",
+      "Geographic Positioning Satellite"
+    ],
+    "answer": "Global Positioning System",
+    "hint": "Det används för att hitta platser med hjälp av satelliter.",
+    "subject": "Teknik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad står förkortningen SMS för?",
+    "options": [
+      "Short Message Service",
+      "Simple Mail System",
+      "Standard Mobile Signal",
+      "Secure Messaging Service"
+    ],
+    "answer": "Short Message Service",
+    "hint": "Det handlar om ett sätt att skicka korta textmeddelanden mellan mobiltelefoner.",
+    "subject": "Teknik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad står förkortningen CPU för?",
+    "options": [
+      "Central Processing Unit",
+      "Central Programming Unit",
+      "Computer Processing Unit",
+      "Central Power Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "hint": "Denna enhet är hjärnan i datorn som bearbetar alla instruktioner.",
+    "subject": "Teknik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad står förkortningen LAN för?",
+    "options": [
+      "Local Area Network",
+      "Long Area Network",
+      "Large Area Network",
+      "Low Access Network"
+    ],
+    "answer": "Local Area Network",
+    "hint": "Det handlar om ett nätverk som täcker ett begränsat geografiskt område, som ett hem eller ett kontor.",
+    "subject": "Teknik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket av följande är inte ett programmeringsspråk?",
+    "options": ["Python", "JavaScript", "HTML", "C#"],
+    "answer": "HTML",
+    "hint": "Tänk på att vissa språk används för att strukturera innehåll snarare än att programmera logik.",
+    "subject": "Teknik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken är inte en webbläsare?",
+    "options": ["Google Chrome", "Mozilla Firefox", "Adobe Acrobat", "Safari"],
+    "answer": "Adobe Acrobat",
+    "hint": "En av dem används för att visa och hantera PDF-dokument.",
+    "subject": "Teknik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilken typ av attack syftar på att överbelasta en webbplats med trafik för att göra den otillgänglig?",
+    "options": ["Phishing", "DDoS", "Malware", "Spyware"],
+    "answer": "DDoS",
+    "hint": "Denna attack innebär att en webbplats bombarderas med trafik från många olika källor.",
+    "subject": "Teknik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken av följande är INTE en hackerattack?",
+    "options": [
+      "Cross-Site Scripting (XSS)",
+      "Man-in-the-Middle (MitM)",
+      "SQL Injection",
+      "Packet Snatching"
+    ],
+    "answer": "Packet Snatching",
+    "hint": "Cross-Site Scripting (XSS) är en säkerhetsbrist där en angripare kan injicera skadlig kod (ofta JavaScript) på en webbplats, vilket gör att användare som besöker sidan kan bli utsatta för datastöld eller andra skadliga handlingar.",
+    "subject": "Teknik"
+  },
+  {
+    "text": "Vad är moderkortets huvudsakliga funktion i en dator?",
+    "options": [
+      "Att lagra alla filer och dokument",
+      "Att koppla samman datorns alla komponenter",
+      "Att generera grafik till skärmen",
+      "Att kyla ner processorn"
+    ],
+    "answer": "Att koppla samman datorns alla komponenter",
+    "hint": "Moderkortet fungerar som \"spindeln i nätet\"",
+    "subject": "Teknik",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vad står förkortningen USB för?",
+    "options": [
+      "Universal Storage Block",
+      "United Serial Bus",
+      "Universal Serial Bus",
+      "Unified System Backup"
+    ],
+    "answer": "Universal Serial Bus",
+    "hint": "? Serial Bus",
+    "subject": "Teknik",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vad är en routers huvudsakliga uppgift?",
+    "options": [
+      "Att lagra data",
+      "Att ge ström till nätverksenheter",
+      "Att dirigera nätverkstrafik",
+      "Att kyla ner datorn"
+    ],
+    "answer": "Att dirigera nätverkstrafik",
+    "hint": "En router styr hur datatrafik skickas mellan olika nätverk.",
+    "subject": "Teknik",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vad gör ett RAM-minne i en dator?",
+    "options": [
+      "Lagrar långsiktig data",
+      "Behandlar grafik",
+      "Tillfälligt lagrar data som används av systemet",
+      "Kyler ner processorn"
+    ],
+    "answer": "Tillfälligt lagrar data som används av systemet",
+    "hint": "RAM används för att snabbt komma åt information som är aktiv just nu.",
+    "difficulty": "medium",
+    "subject": "Teknik"
+  },
+  {
+    "text": "Vem har gjort 'Dancing Queen'?",
+    "options": ["ABBA", "Carola", "Roxette", "Ace of Base"],
+    "answer": "ABBA",
+    "hint": "De har även gjort låten \"Mamma Mia\".",
+    "subject": "Underhållning",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vilket band har gjort låten \"Back in Black\"?",
+    "options": ["AC/DC", "Led Zeppelin", "The Rolling Stones", "Queen"],
+    "answer": "AC/DC",
+    "hint": "Det här bandet är känt för sin hårdrock och ikoniska gitarriff.",
+    "subject": "Underhållning",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vilket band sjöng låten \"Bohemian Rhapsody\"?",
+    "options": ["The Rolling Stones", "The Beatles", "Queen", "Led Zeppelin"],
+    "answer": "Queen",
+    "hint": "Sångaren hette Freddie Mercury.",
+    "subject": "Underhållning",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem skrev böckerna om Harry Potter?",
+    "options": [
+      "J.R.R. Tolkien",
+      "George R.R. Martin",
+      "J.K. Rowling",
+      "C.S. Lewis"
+    ],
+    "answer": "J.K. Rowling",
+    "hint": "Författaren är känd för att ha skapat en värld fylld med magi och trollkarlar.",
+    "subject": "Underhållning",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem skrev \"Pippi Långstrump\"?",
+    "options": [
+      "Elsa Beskow",
+      "Tove Jansson",
+      "Astrid Lindgren",
+      "Barbro Lindgren"
+    ],
+    "answer": "Astrid Lindgren",
+    "hint": "Hon skrev även \"Emil i Lönneberga\"",
+    "subject": "Underhållning",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vem skrev \"Sagan om ringen\"?",
+    "options": [
+      "J.K. Rowling",
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "George R.R. Martin"
+    ],
+    "answer": "J.R.R. Tolkien",
+    "hint": "Han var en brittisk författare och språkvetare.",
+    "subject": "Underhållning",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem har skrivit \"Romeo och Julia\"?",
+    "options": [
+      "William Shakespeare",
+      "Jane Austen",
+      "Charles Dickens",
+      "Mark Twain"
+    ],
+    "answer": "William Shakespeare",
+    "hint": "Engelsk dramatiker från 1500-talet.",
+    "subject": "Underhållning",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vem av följande har inte spelat Batman?",
+    "options": [
+      "Christian Bale",
+      "Ben Affleck",
+      "Michael Keaton",
+      "Ryan Reynolds"
+    ],
+    "answer": "Ryan Reynolds",
+    "hint": "Han är känd för att spela Deadpool.",
+    "subject": "Underhållning",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vem av följande har inte spelat James Bond?",
+    "options": ["Sean Connery", "Sam Neill", "Roger Moore", "Pierce Brosnan"],
+    "answer": "Sam Neill",
+    "hint": "Denna skådespelare provspelade faktiskt för rollen, men blev inte utvald.",
+    "subject": "Underhållning",
+    "difficulty": "hard"
+  },
+  {
+    "text": "Vilken av följande filmer är inte regisserad av Quentin Tarantino?",
+    "options": [
+      "Pulp Fiction",
+      "Kill Bill",
+      "Inglourious Basterds",
+      "The Departed"
+    ],
+    "answer": "The Departed",
+    "hint": "Inglourious Basterds är regisserad av Quentin Tarantino.",
+    "difficulty": "medium",
+    "subject": "Okänd"
+  }
+]
