@@ -252,11 +252,12 @@ const celebrate = () => {
           }">{{ option }}</button>
       </div>
     </div>
-    <div class=" bg-gray-100 p-8">
-      <button popovertarget="prices" class=" bg-yellow-400 text-white px-4 py-2 grid grid-cols-3 w-full rounded-md">
+    <div class="p-8 border-t border-gray-200">
+      <button popovertarget="prices"
+        class=" bg-yellow-400 text-white px-4 py-2 grid grid-cols-3 items-center w-full rounded-md">
         <div class=" mr-auto">{{ index + 1 }}/{{ questions.length }}</div>
         <div class=" text-center font-semibold">{{ question.price }}</div>
-        <div class=" ml-auto flex items-center gap-2">
+        <div class=" ml-auto flex gap-2">
           <i v-for="helper in question.helpers" :class="helper" class="fa-solid"></i>
         </div>
       </button>
@@ -265,12 +266,12 @@ const celebrate = () => {
       class=" bg-white shadow-md size-auto p-8 open:translate-y-0 translate-y-full transition transition-discrete duration-1000">
       <div class="flex flex-col-reverse gap-1 h-full">
         <div v-for="(question, i) in questions" :class="{ 'bg-yellow-400': i == index }"
-          class=" bg-gray-100 px-4 grid grid-cols-3 grow content-center rounded-md">
+          class=" bg-gray-100 px-4 grid grid-cols-3 items-center grow rounded-md">
           <div class=" mr-auto" :class="i == index ? 'text-white' : 'text-gray-400'">{{ i + 1 }}</div>
           <div :class="i == index ? 'text-white' : 'text-gray-600'" class=" text-center font-semibold">
             {{ question.price }}
           </div>
-          <div class=" ml-auto flex items-center gap-2" :class="i == index ? 'text-white' : 'text-rose-400'">
+          <div class=" ml-auto flex gap-2" :class="i == index ? 'text-white' : 'text-rose-400'">
             <i v-for="helper in question.helpers" :class="helper" class="fa-solid"></i>
           </div>
         </div>
